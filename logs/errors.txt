@@ -1,0 +1,5 @@
+Date: 2024:11:18 	 19:54	 Error: Erorr Name: TypeError,  res.sedFile is not a function
+Date: 2024:11:18 	 20:00	 Error: Erorr Name: ReferenceError,  paht is not defined
+Date: 2024:11:19 	 20:25	 Error: Erorr Name: Error,  ENOENT: no such file or directory, stat 'C:\VS Code\Vs Code Learning Backend\routes\views\index.html'
+Date: 2024:11:19 	 20:25	 Error: Erorr Name: Error,  ENOENT: no such file or directory, stat 'C:\VS Code\Vs Code Learning Backend\routes\views\index.html'
+Date: 2024:11:19 	 20:25	 Error: Erorr Name: Error,  ENOENT: no such file or directory, stat 'C:\VS Code\Vs Code Learning Backend\routes\views\index.html'
